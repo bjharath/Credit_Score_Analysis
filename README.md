@@ -6,6 +6,7 @@ The aim is to create new, informative features, calculate a hypothetical credit 
 Column Name	Description:
 
 ID	 Represents a unique identification of an entry
+
 Customer_ID	 Represents a unique identification of a person 
 Month	 Represents the month of the year
 Name	 Represents the name of a person
