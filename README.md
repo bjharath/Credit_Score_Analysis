@@ -1,17 +1,22 @@
-Problem statement:
+# Problem statement:
+
 
 To conduct a thorough exploratory data analysis (EDA) and deep analysis of a comprehensive dataset containing basic customer details and extensive credit-related information. 
 The aim is to create new, informative features, calculate a hypothetical credit score, and uncover meaningful patterns, anomalies, and insights within the data.
 
-Column Name	Description:
+# Column Name	Description:
 
-ID	 Represents a unique identification of an entry
+ID----Represents a unique identification of an entry
 
-Customer_ID	 Represents a unique identification of a person 
-Month	 Represents the month of the year
-Name	 Represents the name of a person
-Age	 Represents the age of the person
-SSN	 Represents the social security number of a person
+Customer_ID----Represents a unique identification of a person 
+
+Month----Represents the month of the year
+
+Name----Represents the name of a person
+
+Age----Represents the age of the person
+
+SSN----Represents the social security number of a person
 Occupation	 Represents the occupation of the person
 Annual_Income	 Represents the annual income of the person
 Monthly_Inhand_Salary	 Represents the monthly base salary of a person
